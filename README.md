@@ -1,6 +1,6 @@
 # homework-eight
 
-poorly done homework 8 for n215
+homework 8 for n215
 
 ## Link to Web4 page:
 
